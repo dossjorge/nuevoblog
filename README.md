@@ -8,5 +8,6 @@ Un blog nuevo despues de cambiar la rama
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
+* Creado por el increible morales Team
 
 Y como un amable recordatorio : **ESTE README .MD ES UN CHISTE.** Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y sigamos aprendiendo.
